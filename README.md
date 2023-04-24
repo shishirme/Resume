@@ -5,8 +5,8 @@
 ### Experience
 	Data Engineer
 	January 2023 -- Present.
-  Townsville Hospital and Health Service.
-  Queensland Health. 
+  	Townsville Hospital and Health Service.
+  	Queensland Health. 
 
 	* Set up and Automation of Data Request using the Power Automate, MS Form, Share point and One drive application. 
   	* Extract and provide Requested Data from The Data Warehouse using SQL /Python/Excel/Power BI under governance and ethics approval.
@@ -17,8 +17,8 @@
 	June 2022 -- December 2022
 	* Working as python instructor for the school students in Sunshine coast.
   
-  Data Analyst 
-  July 2019 to January 2022
+  	Data Analyst 
+  	July 2019 to January 2022
 	* Aussiex Sales IOT equipment like Security equipment, OLTP sensor equipment, 
 	automation sensors and courier services. I had the opportunity to work with these items 
 	and know about Wireless Sensor Network, Low range Radio Frequency network.
@@ -45,15 +45,13 @@ Bachelor of Engineering
 Mechanical Engineering
 2004-05 (Year Completed)
 
-**Referance:** Dr. Joinal Abedin (UTS) . Engr. Abdul Jabbar (Network Analyst - Master card ) 
-**Description:** 
+	**Referance:** Dr. Joinal Abedin (UTS) . Engr. Abdul Jabbar (Network Analyst - Master card ) 
+	**Description:** 
 
 ## Events
 
 ### Projects Comleted
 
-####
-####
 ## Skills
 
 	**Languages:** Python, Java, SQL 
@@ -61,7 +59,7 @@ Mechanical Engineering
 	**Tools:** PySpark, Airflow, DBT,Kubernetes,Docker
 	**Other Skills:** Linux,Git,Gitlab,Jira,Office 365, 
 
-## Languages
+### Languages
 
 	**Bangla** Native language
 
