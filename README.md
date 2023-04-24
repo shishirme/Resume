@@ -50,7 +50,7 @@ Mechanical Engineering
 
 ## Events
 
-### Projects Comleted
+## Projects Comleted
 
 ## Skills
 
@@ -59,7 +59,7 @@ Mechanical Engineering
 	**Tools:** PySpark, Airflow, DBT,Kubernetes,Docker
 	**Other Skills:** Linux,Git,Gitlab,Jira,Office 365, 
 
-### Languages
+## Languages
 
 	**Bangla** Native language
 
