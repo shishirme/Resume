@@ -45,8 +45,8 @@ Bachelor of Engineering
 Mechanical Engineering
 2004-05 (Year Completed)
 
-	**Referance:** Dr. Joinal Abedin (UTS) . Engr. Abdul Jabbar (Network Analyst - Master card ) 
-	**Description:** 
+**Referance:** Dr. Joinal Abedin (UTS) . Engr. Abdul Jabbar (Network Analyst - Master card ) 
+**Description:** 
 
 ## Events
 
